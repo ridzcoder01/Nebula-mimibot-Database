@@ -1,2 +1,6 @@
-[120363397100406773@newsletter
-]
+{
+  "newsletters": [
+    "120363288177044023@newsletter",
+    "120363397100406773@newsletter"
+  ]
+}
